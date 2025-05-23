@@ -63,6 +63,7 @@ The dataset used includes the following features:
 The trained model achieves an accuracy of approximately **80.49%**, which indicates reliable performance on the loan approval task.
 
 ## 🧪 Sample Output
+
 'Y' = Approved
 'N' = Not Approved
 Download the Dataset mentioned file and run the code.
